@@ -17,6 +17,7 @@ def add():
                 # print('task added  ')
                 # return tasks
                 show()
+# show feature:
 
 def show():
         if(tasks == '' ):
